@@ -1,16 +1,62 @@
-# React + Vite
+# View here https://vyom-garud-assignment.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🚀 VyomGarud – UAV Systems Landing Page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern, responsive landing page built for the VyomGarud Web Developer Intern Assessment.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛰️ Overview
 
-## Expanding the ESLint configuration
+VyomGarud is a military-grade UAV systems organization specializing in advanced drone technologies, autonomous mission systems, and high-reliability aerial intelligence.
+This project showcases a single, polished landing page representing VyomGarud’s identity and capabilities.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Designed with a dark, futuristic, defense-grade aesthetic, the page communicates precision, reliability, and advanced engineering.
+
+<br>
+🎨 Features
+✅ Modern UI
+
+Dark military/futuristic theme
+
+Clean typography (Inter / Poppins)
+
+Orange accent (#ff7b00) for brand identity
+
+📱 Fully Responsive
+
+Mobile-first layout
+
+Navbar with hamburger menu
+
+Responsive hero, cards, and form sections
+
+🧩 Sections Included
+
+Navbar
+
+Hero Section
+
+About Section
+
+Capabilities / Products (3 Cards)
+
+Highlights (3 Feature Points)
+
+Contact / Footer (Simple Form)
+
+⚡ Interactive Design
+
+Smooth hover animations
+
+Subtle transitions
+
+Clean card elevation on hover
+
+
+# Snapshots
+
+<img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/3cf63811-8482-4da6-8d3e-c8f14045b19a" />
+
+<img width="1871" height="962" alt="image" src="https://github.com/user-attachments/assets/64cbb711-3b9a-4d98-9d02-221373201b7d" />
+<img width="1091" height="928" alt="image" src="https://github.com/user-attachments/assets/4ff01f9b-e905-4d9a-bbb9-4a3295f7f22a" />
